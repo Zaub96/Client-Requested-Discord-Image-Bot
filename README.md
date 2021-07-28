@@ -1,6 +1,7 @@
 # Client-Requested-Discord-Image-Bot
 Client wanted a discord bot to select random photos from storage.
 This freelance project was brought to me by a client in a who wanted a discord bot.
+Ran on Python Version: 3.6.5
 # Client expected features:
 
    # ON Launch:
